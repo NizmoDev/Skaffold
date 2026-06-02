@@ -191,8 +191,8 @@ Attach debugger: "Attach Skaffold"
 
 ### URLs
 
-http://localhost:8081/
-http://127.0.0.1:9229/
+* http://localhost:8081/
+* http://127.0.0.1:9229/
 
 ---
 
