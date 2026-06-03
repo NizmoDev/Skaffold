@@ -6,7 +6,7 @@ build:
     push: false
 
   artifacts:
-    - image: demo-app
+    - image: demo-app 
 
 manifests:
   rawYaml:
