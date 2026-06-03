@@ -7,7 +7,7 @@ It provides a simple workflow for building, deploying, and exposing a service lo
 ---
 
 ## 🚀 Prerequisites
-
+ 
 Before starting, make sure you have installed:
 
 * Docker → https://www.docker.com/
