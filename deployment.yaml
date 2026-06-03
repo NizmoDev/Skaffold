@@ -3,7 +3,7 @@ kind: Deployment
 
 metadata:
   name: demo
-  labels:
+  labels: 
     app: demo
 
 spec:
