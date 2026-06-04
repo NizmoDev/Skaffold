@@ -6,7 +6,7 @@ It provides a simple workflow for building, deploying, and exposing a service lo
 
 ---
 
-## 🚀 Prerequisites
+## 🚀 Prerequisites 
  
 Before starting, make sure you have installed:
 
